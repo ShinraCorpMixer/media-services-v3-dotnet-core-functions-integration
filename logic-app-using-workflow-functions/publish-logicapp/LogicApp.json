@@ -39,12 +39,12 @@
         "southafricanorth",
         "southafricawest"
       ],
-      "defaultValue": "southeastasia"
+      "defaultValue": "canadacentral"
     },
     "LogicAppName": {
       "type": "string",
       "minLength": 1,
-      "defaultValue": "raz-mediaservices-publish-workflow"
+      "defaultValue": "shinra-mediaservices-publish-workflow"
     }
   },
   "variables": {},
